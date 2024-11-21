@@ -1,0 +1,5 @@
+My skills include:<br>
+Problem-solving<br>
+Programming Language (C)<br>
+Understanding algorithms<br>
+Version Control System (Git)<br>
